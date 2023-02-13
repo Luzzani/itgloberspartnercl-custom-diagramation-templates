@@ -1,0 +1,7 @@
+{
+    "special-diagramation": {
+        "component": "CustomGrid",
+        "composition": "children",
+        "render": "client"
+    }
+}
